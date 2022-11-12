@@ -2,5 +2,3 @@
 .vscode
 /.env
 db.sqlite3
-Dockerfile
-.dockerignore
