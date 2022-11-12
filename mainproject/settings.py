@@ -90,7 +90,7 @@ WSGI_APPLICATION = 'mainproject.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': config('reunion'),
+        'NAME': 'reunion',
         'USER': 'macos',
         'PASSWORD': config('PASSWORD'),
         'HOST': 'localhost',
