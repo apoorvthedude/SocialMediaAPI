@@ -129,4 +129,3 @@ password -  admin123123 |apurv123123 |Gargapurv123123
 
 ## Tools
 - **Postman** for testing API's
-- 
