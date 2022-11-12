@@ -1,7 +1,7 @@
 .venv/
 .vscode
 /.env
-db.sqlite3
-.dockerignore
-commands.txt
-Dockerfile
+/db.sqlite3
+/.dockerignore
+/commands.txt
+/Dockerfile
