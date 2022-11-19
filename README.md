@@ -61,8 +61,10 @@ DATABASES = {
 ```
 
 ## Deployed version
-
+Currently not deployed (removed from deployment)
+<!--
 Deployed Server Link - [Link](https://web-production-socialmediaapi.up.railway.app/api/)
+-->
 
 ## API Reference
 
